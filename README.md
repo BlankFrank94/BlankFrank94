@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BlankFrank94
-- 👀 I’m interested in Web Development and UX Research/Design.
+- 👀 I’m interested in Backend Development.
 - 🌱 I’m currently learning JavaScript.
-- 💞️ I’m looking to collaborate on UX Research Projects.
+- 💞️ I’m looking to collaborate on Java Projects.
 - 📫 How to reach me AJFrank1994@Gmail.com
 
 <!---
